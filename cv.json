@@ -1,13 +1,13 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Grecia V.",
+    "name": "Grecia Valentina V.",
     "label": "Software Developer",
     "animated_main_label": "developer",
     "animated_secondary_initial_label": "software",
     "animated_secondary_final_label": "full_stack",
     "image": "/pfp.webp",
-    "email": "falconyumn@gmail.com",
+    "email": "greciavalentina@gmail.com",
     "url": "https://www.linkedin.com/in/arielfalcon/",
     "summary": "Full-Stack web developer, at the moment. I work on Angular and Vue with Java / Spring. Currently learning about AWS, Cloud Computing and DevOps.",
     "theme": "red",
@@ -124,7 +124,7 @@
       ],
       "skills": {
         "HTML5": "simple-icons:html5",
-        "CSS3": "ri:css3-fill",
+        "CSS": "ri:css3-fill",
         "Wordpress": "simple-icons:wordpress",
         "Vibe Coding": "mdi:code-tags",
         "Elementor": "simple-icons:elementor",
