@@ -14,8 +14,19 @@ const { image, summary, url, theme } = CV.basics;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="dark">
   <head>
+<script is:inline>
+  document.documentElement.classList.add('dark');
+  document.documentElement.setAttribute('data-theme', 'vaporwave');
+  document.addEventListener('DOMContentLoaded', function() {
+    document.body.setAttribute('data-theme', 'vaporwave');
+  });
+  if (localStorage.getItem('theme') === 'light') {
+    document.documentElement.classList.remove('dark');
+  }
+</script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <meta charset="UTF-8" />
     <title>{title}</title>
     <meta name="description" content={summary} />
@@ -37,7 +48,7 @@ const { image, summary, url, theme } = CV.basics;
     {CV?.analyticsCode && <script is:inline src={CV.analyticsCode} />}
     <Analytics />
   </head>
-  <body data-theme={theme} class="relative bg-skin-fill font-sans">
+  <body data-theme="vaporwave" class="relative bg-skin-fill font-sans dark">
     <div class="absolute top-0 -z-10 h-full w-full print:hidden">
       <div class="absolute bottom-auto left-[20%] right-auto top-0 h-[200px] w-[200px] -translate-x-[30%] translate-y-[20%] rounded-full bg-skin-hue/10 blur-[80px] invert-0 dark:bg-white/5"></div>
     </div>

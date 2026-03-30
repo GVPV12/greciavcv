@@ -1,10 +1,12 @@
+
 ---
 import { basics } from '@cv'
 import Section from '@/components/Section.astro'
 import { Icon } from 'astro-icon/components'
 
-const { name, animated_secondary_initial_label, animated_main_label, animated_secondary_final_label, image, location, email } = basics
+const { name, animated_secondary_initial_label, animated_main_label, animated_secondary_final_label, animated_secondary_third_label, image, location, email } = basics
 const { city, region, address } = location
+
 ---
 
 <Section className={Astro.props.className}>
@@ -29,23 +31,43 @@ const { city, region, address } = location
         </figure>
         <div class="flex flex-col items-center">
           <h1 class="hover:hover-grad-text font-semibold">{name}</h1>
-          <div class="overflow-hidden mt-1">
-            <div class="font-roboto-condensed font-bold lowercase text-xl lg:text-[1rem] lg:leading-[1rem]">
-              <div class="group/subtitle relative flex gap-1 hover:gap-5 active:gap-5 transition-all">
-                <div class="transition-all duration-450 ease-in-out group-hover/subtitle:-translate-y-16">
-                  <p class="font-roboto-condensed font-medium lowercase text-xl lg:text-[1rem] lg:leading-[1rem]">
-                    {animated_secondary_initial_label}
-                  </p>
-                </div>
-                <div class="absolute inset-x-0 top-0 w-max translate-y-16 transition-all duration-450 ease-in-out group-hover/subtitle:translate-y-0">
-                  <p class="font-roboto-condensed font-bold lowercase text-xl lg:text-[1rem] lg:leading-[1rem] bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
-                    {animated_secondary_final_label}
-                  </p>
-                </div>
-                <p>{animated_main_label}</p>
-              </div>
-            </div>
-          </div>
+<div class="overflow-hidden mt-1">
+  <div class="font-roboto-condensed font-bold lowercase text-xl lg:text-[1rem] lg:leading-[1rem]">
+    <div class="relative flex gap-1">
+      <div id="rotating-label" class="font-roboto-condensed font-medium lowercase text-xl lg:text-[1rem] lg:leading-[1rem] bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 transition-all duration-500">
+        {animated_secondary_initial_label}
+      </div>
+      <p>{animated_main_label}</p>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ animated_secondary_initial_label, animated_secondary_final_label, animated_secondary_third_label }}>
+  const labels = [
+    animated_secondary_initial_label,
+    animated_secondary_final_label,
+    animated_secondary_third_label
+  ]
+  let current = 0
+  const el = document.getElementById('rotating-label')
+
+  setInterval(() => {
+    // fade out
+    el.style.opacity = '0'
+    el.style.transform = 'translateY(-8px)'
+
+    setTimeout(() => {
+      current = (current + 1) % labels.length
+      el.textContent = labels[current]
+      // fade in
+      el.style.opacity = '1'
+      el.style.transform = 'translateY(0)'
+    }, 400)
+  }, 2500)
+
+  // transición suave
+  el.style.transition = 'opacity 0.4s ease, transform 0.4s ease'
+</script>
         </div>
       </div>
       <div data-ccursor="noPadding" class='flex w-max gap-2 py-1 px-2 text-sm text-skin-muted'>

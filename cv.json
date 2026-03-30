@@ -1,582 +1,579 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Grecia Valentina V.",
-    "label": "Software Developer",
-    "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
-    "animated_secondary_final_label": "full_stack",
-    "image": "/pfp.webp",
+    "name": "Grecia V.",
+    "label": "Web Developer & Designer",
+    "animated_main_label": "",
+    "animated_secondary_initial_label": "web dev & designer",
+    "animated_secondary_final_label": "3d intermediate artist",
+    "animated_secondary_third_label": "game dev enthusiast",
+    "image": "/profile.jpg",
     "email": "greciavalentina@gmail.com",
-    "url": "https://www.linkedin.com/in/arielfalcon/",
-    "summary": "Full-Stack web developer, at the moment. I work on Angular and Vue with Java / Spring. Currently learning about AWS, Cloud Computing and DevOps.",
-    "theme": "red",
+    "url": "https://www.linkedin.com/in/grecia-valentina-valero/",
+ "summary": "UI Designer & Web Developer with 5+ years of experience building high-performance websites and digital experiences.\n\nSpecialized in UI/UX Design, Frontend Development with Astro, WordPress and Shopify, and 3D asset integration with Blender.\n\nPassionate about Game Development, interactive interfaces, and creative coding. Available for freelance projects worldwide. 🚀",
+    "theme": "vaporwave",
     "location": {
       "address": "Miranda",
       "city": "Caracas",
       "countryCode": "VE",
       "region": "Venezuela"
     },
+    
     "profiles": [
-      {
-        "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
-        "color": "#1DA1F2",
-        "username": "@arielGfalcon",
-        "url": "https://x.com/arielGfalcon"
-      },
       {
         "network": "LinkedIn",
         "icon": "ri:linkedin-fill",
         "color": "#0066C2",
-        "username": "Ariel Falcón",
-        "url": "https://linkedin.com/in/arielfalcon"
+        "username": "Grecia Valentina Valero",
+        "url": "https://www.linkedin.com/in/grecia-valentina-valero/"
+      },
+            {
+        "network": "Contra",
+        "icon": "mdi:web",
+        "color": "#ffffff",
+        "username": "Grecia Valentina Valero",
+        "url": "https://contra.com/greciavalentina_?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=greciavalentina_"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
-        "username": "ArielFalcon",
-        "url": "https://github.com/ArielFalcon"
+        "username": "Grecia Valentina Valero",
+        "url": "https://github.com/GVPV12"
       },
-            {
-        "network": "fdsfsdfsdf",
-        "icon": "mdi:github",
-        "color": "#929AAB",
-        "username": "ArielFalcon",
-        "url": "https://github.com/ArielFalcon"
-      },
+
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "Ariel González Falcón",
-        "url": "mailto:falconyumn@gmail.com"
+        "username": "Grecia Valentina Valero",
+        "url": "mailto:greciavalentinapv@gmail.com"
       }
     ]
   },
   "education": [
     {
-      "institution": "Experis Academy – Spain",
-      "url": "https://www.linkedin.com/school/experis-academy",
-      "area": "Cloud Computing (AWS)",
+      "institution": "Universidad Nueva Esparta – Venezuela",
+      "url": "https://www.linkedin.com/school/universidad-nueva-esparta/",
+      "area": "Computer Science Associate Degree",
       "studyType": "Full-time student",
-      "startDate": "2025-01-01",
-      "endDate": "2025-05-21"
-    },
-    {
-      "institution": "TEIDE Formation Center – Spain",
-      "url": "https://www.linkedin.com/company/teide-centros-de-formaci%C3%B3n",
-      "area": "Web Development",
-      "studyType": "Full-time student",
-      "startDate": "2023-04-01",
-      "endDate": "2023-09-01"
-    },
-    {
-      "institution": "Calixto García Medical School – Cuba",
-      "url": "https://www.linkedin.com/company/hospital-universitario-calixto-garcia/?originalSubdomain=cu",
-      "area": "Medicine (unfinished)",
-      "studyType": "Full-time student",
-      "startDate": "2018-9-01",
-      "endDate": "2021-7-01"
+      "startDate": "2015-09-12",
+      "endDate": "2020-02-11"
     }
   ],
   "certificates": [
+
     {
-      "name": "AWS Certified Developer – Associate",
-      "date": "2025-05-01",
-      "url": "",
-      "issuer": "Amazon"
+      "name": "Full HTML Course",
+      "date": "2019-01-03",
+      "url": "https://www.sololearn.com/certificates/CT-HCODABBP",
+      "issuer": "Solo Learn"
     },
-    {
-      "name": "C1 Advanced English",
-      "date": "2025-01-03",
-      "url": "https://cert.efset.org/es/6jDrGH",
-      "issuer": "EF SET"
+        {
+      "name": "Full CSS Course",
+      "date": "2019-01-03",
+      "url": "https://www.sololearn.com/certificates/CT-HMJUKJCY",
+      "issuer": "Solo Learn"
+    },
+        {
+      "name": "Full JS Course",
+      "date": "2019-01-03",
+      "url": "https://www.sololearn.com/es/certificates/CT-KATL1YJQ",
+      "issuer": "Solo Learn"
+    },
+        {
+      "name": "WordPress Full Course",
+      "date": "2021-01-03",
+      "url": "https://www.udemy.com/certificate/UC-be720c5f-2198-4b39-ad6a-8de78e5b0741/",
+      "issuer": "Udemy"
+    },
+        {
+      "name": "SEO full 9 hours Course",
+      "date": "2021-01-03",
+      "url": "https://www.udemy.com/certificate/UC-0d712c29-9648-4ba6-8f0f-dc5e10c68cec/",
+      "issuer": "Udemy"
+    },
+        {
+      "name": "UX Full Course",
+      "date": "2021-01-03",
+      "url": "https://www.udemy.com/certificate/UC-2b12fb6b-9435-4670-9f70-04de9470bca2/",
+      "issuer": "Udemy"
+    },
+        {
+      "name": "Full Gemini Course",
+      "date": "2019-01-03",
+      "url": "https://skillshop.exceedlms.com/student/award/tJqBWShvHkYNaQc4bgSU2tEM ",
+      "issuer": "Google"
+    },
+            {
+      "name": "3D animation in Blender Course",
+      "date": "2021-01-03",
+      "url": "https://www.domestika.org/es/certificates/b4e651939bd754b2f9bebb9c80bf1e89 ",
+      "issuer": "Domestika"
+    },
+            {
+      "name": "Full SEO Course",
+      "date": "2021-01-03",
+      "url": "https://www.udemy.com/certificate/UC-0d712c29-9648-4ba6-8f0f-dc5e10c68cec/ ",
+      "issuer": "Google"
+    },
+            {
+      "name": "All my course certificacions",
+      "date": "",
+      "url": "https://docs.google.com/document/d/1VCWV0b71VZrD0rwyByJKEiohtlCDOvgw1Pm_2rf2eX0",
+      "issuer": "Various"
     }
+    
   ],
   "work": [
-    {
-      "name": "Zener Soft Consulting",
-      "position": "Full-Stack Developer",
-      "location_type": "Remote",
-      "location": "ES",
-      "url": "https://www.linkedin.com/company/aitor-pelaez-zenerconsulting-com/",
-      "startDate": "2023-07-03",
-      "endDate": null,
-      "summary": "Experienced in developing high-complexity, scalable, data-driven projects with a focus on performance, user experience, and system integration. Participated in development of a complex Micro-services, Hexagonal, DDD, Spring Java project.",
-      "highlights": [
-        "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
-      ],
-      "responsibilities": [
-        "Developed and maintained projects, ensuring scalability, performance, clean code, efficient architecture and robust user experiences.",
-        "Collaborated with cross-functional teams of developers, designers, and project managers to deliver high-quality solutions.",
-        "Ensured code quality and optimized front-end performance to meet user needs and business objectives.",
-        "Managed complex, data-intensive projects, ensuring smooth integration of business logic and user interfaces.",
-        "Designed and developed highly reactive components and workflows to improve application efficiency and user interaction.",
-        "Developed endpoints and services for business logic and data management, ensuring seamless integration with front-end applications."
-      ],
-      "achievements": [
-        "Optimized front-end performance by resolving critical issues, improving page load times, and enhancing user experience.",
-        "Developed an internal tool to streamline client-owned code documentation, introducing interactive design guidelines and testable components.",
-        "Created a highly complex application for the national healthcare system, successfully handling large-scale data management and implementing intricate business logic.",
-        "Built reusable and scalable components for a multinational client, ensuring consistency and improving code quality across multiple platforms."
-      ],
-      "skills": {
-        "HTML5": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "Wordpress": "simple-icons:wordpress",
-        "Vibe Coding": "mdi:code-tags",
-        "Elementor": "simple-icons:elementor",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Figma": "simple-icons:figma",
-        "Photoshop": "simple-icons:adobephotoshop",
-        "Blender": "simple-icons:blender",
-        "Godot": "simple-icons:godotengine",
-        "Obsidian": "simple-icons:obsidian",
-        "Premiere": "simple-icons:adobepremierepro",
-        "VS Code": "simple-icons:visualstudiocode",
-        "Pixelorama": "mdi:grid",
-        "Aseprite": "simple-icons:aseprite",
-        "Illustrator": "simple-icons:adobeillustrator",
-        "Inkscape": "simple-icons:inkscape"
-      }
+  {
+    "name": "Self Employed",
+    "position": "Freelance Visual Designer & Web Developer",
+    "location_type": "Remote",
+    "location": "Worldwide",
+    "url": "https://greciavdev.netlify.app",
+    "startDate": "2021-01-01",
+    "endDate": null,
+    "summary": "Working as a freelance web designer and frontend developer, building high-performance websites for clients across different industries and backgrounds, with a strong focus on user experience, scalability, and conversion optimization.",
+    "highlights": [
+      "Built e-commerce platforms for clients in wellness, shapewear, food, and consulting niches using WordPress, Shopify, and Astro."
+    ],
+    "responsibilities": [
+      "Designed and developed high-performance websites using WordPress, Shopify, Elementor, and Astro.",
+      "Created UI/UX designs in Figma for landing pages, dashboards, and e-commerce platforms.",
+      "Collaborated directly with clients from all over the world to translate their brand into effective digital experiences.",
+      "Managed full project lifecycle: from wireframing and design to deployment and optimization.",
+      "Implemented SEO best practices and performance optimization across all projects.",
+      "Integrated 3D assets created in Blender to enhance visual storytelling.",
+      "Built custom animations and interactions using GSAP for high-complexity projects."
+    ],
+    "achievements": [
+      "Delivered a variety of e-commerce projects and non e-commerce websites: coaching, wellness, tech industries and more for international clients.",
+      "Built dual-mode (Dark/Light) WordPress platform with custom branding.",
+      "Created high-performance wellness sites with AstroJS achieving excellent performance scores.",
+      "Designed an inclusive EdTech dashboard with gamified UX for neurodivergent students.",
+      "Created 3D models and animations for branding, ads and a variety of projects"
+    ],
+    "skills": {
+    "WordPress": "simple-icons:wordpress",
+    "Shopify": "simple-icons:shopify",
+    "Elementor": "simple-icons:elementor",
+    "WooCommerce": "simple-icons:woocommerce",
+    "Kajabi": "mdi:web",
+    "Astro": "simple-icons:astro",
+    "HTML": "simple-icons:html5",
+    "CSS": "ri:css3-fill",
+    "JavaScript": "simple-icons:javascript",
+    "Tailwind": "mdi:tailwind",
+    "React": "simple-icons:react",
+    "Node.js": "ri:nodejs-line",
+    "GSAP": "simple-icons:greensock",
+    "Markdown": "simple-icons:markdown",
+    "Figma": "simple-icons:figma",
+    "Photoshop": "simple-icons:adobephotoshop",
+    "Illustrator": "simple-icons:adobeillustrator",
+    "Inkscape": "simple-icons:inkscape",
+    "Blender": "simple-icons:blender",
+    "Git": "mdi:git",
+    "GitHub": "mdi:github",
+    "Netlify": "simple-icons:netlify",
+    "VS Code": "simple-icons:visualstudiocode",
+    "Notion": "simple-icons:notion",
+    "Obsidian": "simple-icons:obsidian",
+    "Trello": "simple-icons:trello"
     }
-  ],
+  },
+  {
+    "name": "Global Consulting Factory",
+    "position": "Web Developer Internship",
+    "location_type": "On-site",
+    "location": "VE",
+    "url": "",
+    "startDate": "2019-06-01",
+    "endDate": "2020-01-01",
+    "summary": "Built a RESTful CRUD API as part of an internship, using a MEAN stack (MongoDB, Express, Angular, Node.js), focused on functional backend and frontend integration.",
+    "highlights": [
+      "Developed a full MEAN stack CRUD application managing data creation, reading, updating, and deletion."
+    ],
+    "responsibilities": [
+      "Designed and implemented a RESTful API using Node.js and Express.",
+      "Built the frontend interface using Angular and Bootstrap.",
+      "Managed and queried a MongoDB database for all CRUD operations.",
+      "Tested and validated API endpoints to ensure correct data flow between frontend and backend."
+    ],
+    "achievements": [
+      "Successfully delivered a fully functional MEAN stack CRUD API as a first professional project.",
+      "Gained hands-on experience with RESTful API design patterns and database management."
+    ],
+    "skills": {
+      "Angular": "simple-icons:angular",
+      "Node.js": "ri:nodejs-line",
+      "Express": "simple-icons:express",
+      "MongoDB": "simple-icons:mongodb",
+      "Bootstrap": "simple-icons:bootstrap",
+      "JavaScript": "simple-icons:javascript",
+      "HTML5": "simple-icons:html5",
+      "CSS": "ri:css3-fill"
+    }
+  },
+  {
+    "name": "Salud y Familia AC",
+    "position": "Web & Social Media Designer Internship",
+    "location_type": "On-site",
+    "location": "VE",
+    "url": "",
+    "startDate": "2019-02-01",
+    "endDate": "2019-09-01",
+    "summary": "Designed and developed a website for medical consultations with online and in-person payment integration, appointment calendar scheduling, and social media design.",
+    "highlights": [
+      "Built a medical consultation website with multi-method payment support (bank transfer, PayPal, and others) and calendar date selection."
+    ],
+    "responsibilities": [
+      "Designed and developed the full website for a medical consultation platform.",
+      "Implemented multiple payment methods including bank transfer, PayPal, and others.",
+      "Set up appointment calendar functionality allowing patients to book available dates.",
+      "Designed social media promotional posts for the organization's online channels."
+    ],
+    "achievements": [
+      "Delivered a complete web platform enabling patients to book and pay for consultations fully online.",
+      "Produced all social media assets, strengthening the organization's digital presence."
+    ],
+    "skills": {
+      "HTML5": "simple-icons:html5",
+      "CSS": "ri:css3-fill",
+      "JavaScript": "simple-icons:javascript",
+      "WordPress": "simple-icons:wordpress",
+      "Figma": "simple-icons:figma",
+      "Photoshop": "simple-icons:adobephotoshop",
+      "Illustrator": "simple-icons:adobeillustrator"
+    }
+  }
+],
   "skills": [
-    {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "SCSS",
-      "icon": "simple-icons:sass",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Preprocessor",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "icon": "simple-icons:bootstrap",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Angular",
-      "icon": "simple-icons:angular",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Framework",
-        "UI"
-      ]
-    },
-    {
-      "name": "RxJS",
-      "icon": "simple-icons:reactivex",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Reactive Programming",
-        "JavaScript"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "PNPM",
-      "icon": "simple-icons:pnpm",
-      "level": "Beginner",
-      "keywords": [
-        "Package Manager",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Java",
-      "icon": "ri:java-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Spring",
-      "icon": "simple-icons:spring",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Java Framework"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Beginner",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": [
-        "Backend",
-        "Databases",
-        "SQL",
-        "Relational Database"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "icon": "simple-icons:postgresql",
-      "level": "Intermediate",
-      "keywords": [
-        "Backend",
-        "Databases",
-        "SQL",
-        "Relational Database"
-      ]
-    },
-    {
-      "name": "Git",
-      "icon": "mdi:git",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "icon": "mdi:github",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "AWS",
-      "icon": "simple-icons:amazonaws",
-      "level": "Beginner",
-      "keywords": [
-        "Cloud Computing",
-        "Backend",
-        "Infrastructure"
-      ]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Kubernetes",
-      "icon": "mdi:kubernetes",
-      "level": "Beginner",
-      "keywords": [
-        "Virtual Environments",
-        "Backend",
-        "Container Orchestration"
-      ]
-    },
-    {
-      "name": "Python",
-      "icon": "simple-icons:python",
-      "level": "Beginner",
-      "keywords": [
-        "Scripting",
-        "Automation",
-        "Web Development"
-      ]
-    },
-    {
-      "name": "Jest",
-      "icon": "simple-icons:jest",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Jasmine",
-      "icon": "simple-icons:jasmine",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Beginner",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Beginner",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Swagger",
-      "icon": "simple-icons:swagger",
-      "level": "Beginner",
-      "keywords": [
-        "API",
-        "Documentation",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Postman",
-      "icon": "simple-icons:postman",
-      "level": "Intermediate",
-      "keywords": [
-        "API",
-        "Testing",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Figma",
-      "icon": "simple-icons:figma",
-      "level": "Beginner",
-      "keywords": [
-        "Prototyping",
-        "Web Development",
-        "Frontend"
-      ]
-    }
+  {
+    "name": "HTML",
+    "icon": "simple-icons:html5",
+    "level": "Advanced",
+    "keywords": ["Web Development", "Frontend"]
+  },
+  {
+    "name": "CSS",
+    "icon": "ri:css3-fill",
+    "level": "Advanced",
+    "keywords": ["Web Development", "Frontend", "Responsive Design"]
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "mdi:tailwind",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "CSS Framework"]
+  },
+  {
+    "name": "JavaScript",
+    "icon": "simple-icons:javascript",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend"]
+  },
+  {
+    "name": "React",
+    "icon": "simple-icons:react",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "JavaScript Framework"]
+  },
+  {
+    "name": "Astro",
+    "icon": "simple-icons:astro",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+  },
+  {
+    "name": "Node.js",
+    "icon": "ri:nodejs-line",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Backend", "JavaScript"]
+  },
+  {
+    "name": "Markdown",
+    "icon": "simple-icons:markdown",
+    "level": "Advanced",
+    "keywords": ["Documentation", "Web Development"]
+  },
+  {
+    "name": "GSAP",
+    "icon": "simple-icons:greensock",
+    "level": "Intermediate",
+    "keywords": ["Web Development", "Frontend", "Animation"]
+  },
+  {
+    "name": "WordPress",
+    "icon": "simple-icons:wordpress",
+    "level": "Advanced",
+    "keywords": ["Web Development", "CMS", "Frontend"]
+  },
+  {
+    "name": "Elementor",
+    "icon": "simple-icons:elementor",
+    "level": "Advanced",
+    "keywords": ["Web Development", "WordPress", "Frontend"]
+  },
+  {
+    "name": "WooCommerce",
+    "icon": "simple-icons:woocommerce",
+    "level": "Intermediate",
+    "keywords": ["E-commerce", "WordPress"]
+  },
+  {
+    "name": "Shopify",
+    "icon": "simple-icons:shopify",
+    "level": "Intermediate",
+    "keywords": ["E-commerce", "Web Development"]
+  },
+  {
+    "name": "Kajabi",
+    "icon": "mdi:web",
+    "level": "Intermediate",
+    "keywords": ["CMS", "E-commerce", "Web Development"]
+  },
+  {
+    "name": "Figma",
+    "icon": "simple-icons:figma",
+    "level": "Advanced",
+    "keywords": ["Design", "UI/UX", "Prototyping"]
+  },
+  {
+    "name": "Photoshop",
+    "icon": "simple-icons:adobephotoshop",
+    "level": "Intermediate",
+    "keywords": ["Design", "Image Editing"]
+  },
+  {
+    "name": "Illustrator",
+    "icon": "simple-icons:adobeillustrator",
+    "level": "Intermediate",
+    "keywords": ["Design", "Vector Graphics"]
+  },
+  {
+    "name": "Inkscape",
+    "icon": "simple-icons:inkscape",
+    "level": "Intermediate",
+    "keywords": ["Design", "Vector Graphics"]
+  },
+  {
+    "name": "Blender",
+    "icon": "simple-icons:blender",
+    "level": "Intermediate",
+    "keywords": ["3D Modeling", "Animation", "Design"]
+  },
+  {
+    "name": "Git",
+    "icon": "mdi:git",
+    "level": "Intermediate",
+    "keywords": ["Version Control", "Collaboration"]
+  },
+  {
+    "name": "GitHub",
+    "icon": "mdi:github",
+    "level": "Intermediate",
+    "keywords": ["Version Control", "Collaboration", "Git"]
+  },
+  {
+    "name": "Netlify",
+    "icon": "simple-icons:netlify",
+    "level": "Intermediate",
+    "keywords": ["Deployment", "Web Development"]
+  },
+  {
+    "name": "VS Code",
+    "icon": "simple-icons:visualstudiocode",
+    "level": "Advanced",
+    "keywords": ["Development Tools"]
+  },
+  {
+    "name": "Notion",
+    "icon": "simple-icons:notion",
+    "level": "Advanced",
+    "keywords": ["Productivity", "Project Management"]
+  },
+  {
+    "name": "Obsidian",
+    "icon": "simple-icons:obsidian",
+    "level": "Advanced",
+    "keywords": ["Productivity", "Note Taking"]
+  },
+  {
+    "name": "Trello",
+    "icon": "simple-icons:trello",
+    "level": "Intermediate",
+    "keywords": ["Project Management", "Collaboration"]
+  }
+],
+    "languages": [
+    { "language": "Spanish", "fluency": "Native speaker", "percent": 100 },
+    { "language": "English", "fluency": "Advanced - C1", "percent": 95 }
   ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced - C1"
-    }
+  "labProgress": [
+    { "name": "Digital Garden", "percent": 40 },
+    { "name": "Vaporwave OS", "percent": 65 },
+    { "name": "Retro Web", "percent": 20 }
   ],
-  "projects": [
-    {
-      "name": "CV Matching System",
-      "isActive": true,
-      "description": "A propiertary code AI-driven CV matching system to connect the offer and the best candidates. Automates the recruitment process.",
-      "highlights": [
-        "🎯 Tailored job opportunities",
-        "✨ AI-driven complex workflows ",
-        "🚀 80% increase in productivity"
-      ],
-      "stack": {
-        "Python": "simple-icons:python",
-        "Redis": "simple-icons:redis",
-        "Firebase": "simple-icons:firebase",
-        "Google Cloud": "simple-icons:googlecloud",
-        "Claude": "ri:claude-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "url": "https://www.gringojobs.com"
+"projects": [
+  {
+    "name": "Web Design & Development Portfolio",
+    "isActive": true,
+    "description": "Freelance web design and development portfolio featuring e-commerce and corporate websites built with WordPress, Shopify, and Astro. SEO-optimized and built from scratch without premade templates.",
+    "highlights": [
+      "🎯 Full e-commerce and corporate WordPress & Shopify websites",
+      "✨ Custom branding built from scratch, no premade templates",
+      "🚀 SEO optimized for performance and conversions"
+    ],
+    "stack": {
+      "WordPress": "simple-icons:wordpress",
+      "Elementor": "simple-icons:elementor",
+      "Astro": "simple-icons:astro",
+      "HTML": "simple-icons:html5",
+      "CSS": "ri:css3-fill",
+      "Shopify": "simple-icons:shopify",
+      "Netlify": "simple-icons:netlify",
+      "Git": "mdi:git",
+      "GitHub": "mdi:github"
     },
+    "url": "https://greciavdev.netlify.app"
+  },
     {
-      "name": "TODO List",
-      "isActive": false,
-      "description": "A simple app to showcase my skills in Angular. It's a TODO list with a beautiful and smooth UI, good user experience and best practices. Not finished yet.",
-      "highlights": [
-        "📝 In progress",
-        "😮‍ Made-from-scratch complex components",
-        "😊 Beautiful and smooth UI, good user experience",
-        "\uD83E\uDD16 Server Side Rendering"
-      ],
-      "github": "https://github.com/ArielFalcon/TODO-list",
-      "stack": {
-        "Angular": "simple-icons:angular",
-        "RxJS": "simple-icons:reactivex",
-        "TypeScript": "simple-icons:typescript",
-        "SCSS": "simple-icons:sass",
-        "NodeJS": "ri:nodejs-line",
-        "Firebase": "simple-icons:firebase"
-      }
+    "name": "3D Modeling & Animation Portfolio",
+    "isActive": true,
+    "description": "Collection of 3D models and animations created in Blender for clients and personal projects, covering product visualization, character design, and motion graphics.",
+    "highlights": [
+      "🚀 Fluid 60fps and 30fps animations",
+      "🎨 Custom 3D models for diverse industries",
+      "🎬 Video editing and compositing included"
+    ],
+    "stack": {
+      "Blender": "simple-icons:blender",
+      "Premiere": "simple-icons:adobepremierepro",
+      "Kdenlive": "mdi:video"
     },
-    {
-      "name": "Portfolio",
-      "isActive": true,
-      "description": "This website! My personal portfolio, made with Astro. Integrates many themes and key shortcut actions.",
-      "highlights": [
-        "🚀 Fast, modern and SEO-friendly",
-        "🎨 Printable CV generation",
-        "〔N〕Crazy NeoVim mode, try it!"
-      ],
-      "github": "https://github.com/ArielFalcon/portfolio",
-      "stack": {
-        "Astro": "simple-icons:astro",
-        "TypeScript": "simple-icons:typescript",
-        "Tailwind": "mdi:tailwind",
-        "NodeJS": "ri:nodejs-line",
-        "PNPM": "simple-icons:pnpm",
-        "Vercel": "simple-icons:vercel"
-      },
-      "url": "https://www.arielfalcon.me"
+    "url": "https://www.behance.net/greciavalero"
+  },
+  {
+    "name": "Digital Garden",
+    "isActive": true,
+    "description": "Personal blog and digital garden built with Astro, sharing knowledge, interests, and personal analysis with a retro and relaxed aesthetic.",
+    "highlights": [
+      "📝 Personal knowledge management system",
+      "🌿 Reflects personality with a retro and relaxed vibe",
+      "🚀 Fast static site with Astro"
+    ],
+    "stack": {
+      "Astro": "simple-icons:astro",
+      "HTML": "simple-icons:html5",
+      "CSS": "ri:css3-fill",
+      "Markdown": "simple-icons:markdown",
+      "GitHub Pages": "mdi:github"
     },
-    {
-      "name": "AI Web Scraper",
-      "isActive": false,
-      "description": "A web scraper that uses AI to extract data from websites. It's a tool to automate the data extraction process, using machine learning to identify and extract data from websites.",
-      "highlights": [
-        "🤖 Simple script",
-        "🔍 Data Extraction",
-        "🌐 Web scraping"
-      ],
-      "stack": {
-        "Javascript": "simple-icons:javascript",
-        "Selenium": "simple-icons:selenium",
-        "ChromeDriver": "ri:chrome-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
+    "url": "https://gvpv12.github.io/"
+  },
+  {
+    "name": "STARMOON Vaporwave OS",
+    "isActive": true,
+    "description": "A retro operating system simulator with vaporwave aesthetic hosted on Nekoweb. Built with pure HTML, CSS and JS as part of the indie web and nekoweb community.",
+    "highlights": [
+      "🚀 Lightweight: pure HTML, CSS & JS",
+      "🎨 Custom vaporwave OS UI with mini-games",
+      "🌐 Part of the Nekoweb retro web community",
+      "👾 Blog about game dev integrated"
+    ],
+    "stack": {
+      "HTML": "simple-icons:html5",
+      "CSS": "ri:css3-fill",
+      "JavaScript": "simple-icons:javascript",
+      "Nekoweb": "mdi:web"
     },
-    {
-      "name": "SpaceX Invaders",
-      "isActive": true,
-      "description": "A Space Invaders game with a retro look, made with Vue3 and TypeScript. It's a fun project to showcase my skills in Vue3 and TypeScript.",
-      "highlights": [
-        "🚀 Space Invaders game",
-        "🛸 Retro fun",
-        "🎮 Vue3 + TypeScript"
-      ],
-      "stack": {
-        "Vue3": "ri:vuejs-line",
-        "TypeScript": "simple-icons:typescript",
-        "CSS": "simple-icons:css",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Netlify": "simple-icons:netlify"
-      },
-      "github": "https://github.com/ArielFalcon/spacex-invaders",
-      "url": "https://spacex-invaders.netlify.app/"
-    }
-  ]
+    "url": "https://starmoon.nekoweb.org"
+  },
+  {
+    "name": "Retro Recipes Website",
+    "isActive": true,
+    "description": "A kawaii-style retro recipe website on Neocities built with pure HTML, CSS and JS, featuring a personal collection of healthy recipes with a unique and creative UI.",
+    "highlights": [
+      "🍜 Personal healthy recipe collection",
+      "🎨 Kawaii retro UI with unique components",
+      "🚀 Pure HTML, CSS & JS — no frameworks",
+      "🌐 Part of the Neocities old web community"
+    ],
+    "stack": {
+      "HTML": "simple-icons:html5",
+      "CSS": "ri:css3-fill",
+      "JavaScript": "simple-icons:javascript"
+    },
+    "url": "https://neocities.org"
+  },
+  {
+  "name": "USD to VES Currency Converter",
+  "isActive": true,
+  "description": "Portable desktop application for converting USD to Venezuelan Bolivar (VES) and vice versa using the official Banco Central de Venezuela (BCV) real-time exchange rate. Built with Python and available as a Windows .exe — no installation required.",
+  "highlights": [
+    "💱 Real-time BCV official exchange rate",
+    "🖥️ Portable Windows app — no install needed",
+    "🔄 Bidirectional USD ↔ VES conversion",
+    "✨ Daily motivational quotes included"
+  ],
+  "stack": {
+    "Python": "simple-icons:python",
+    "CustomTkinter": "mdi:application",
+    "Pillow": "mdi:image"
+  },
+  "github": "https://github.com/GVPV12/usdtoves"
+},
+{
+  "name": "Commission & Percentage Calculator",
+  "isActive": true,
+  "description": "Portable desktop application to quickly calculate commissions and percentages for freelancers and business use. Built with Python and CustomTkinter — runs without requiring Python installed. Shows equation, deducted value and final result instantly.",
+  "highlights": [
+    "💰 Fast commission and percentage calculation",
+    "🖥️ Portable Windows app — no Python required",
+    "🎨 Clean intuitive UI with CustomTkinter",
+    "📊 Shows full equation and final result"
+  ],
+  "stack": {
+    "Python": "simple-icons:python",
+    "CustomTkinter": "mdi:application"
+  },
+  "github": "https://github.com/GVPV12/commissioncalculador"
+},
+{
+  "name": "BWM — Bulk Watermark Maker",
+  "isActive": true,
+  "description": "Python console tool for bulk text watermarking of images. Process entire folders at once with flexible positioning options — corners, center, or random. Supports JPG, PNG, BMP, GIF, WebP and more via Pillow. First Python project.",
+  "highlights": [
+    "🖼️ Bulk watermark entire image folders at once",
+    "📍 Flexible positioning: corners, center or random",
+    "💾 Save, edit and reuse watermark presets",
+    "🗂️ Wide format support via Pillow (JPG, PNG, WebP...)"
+  ],
+  "stack": {
+    "Python": "simple-icons:python",
+    "Pillow": "mdi:image"
+  },
+  "github": "https://github.com/GVPV12/BWM"
+},
+{
+  "name": "BWM GUI — Bulk Watermark Maker with Interface",
+  "isActive": true,
+  "description": "GUI version of the Bulk Watermark Maker (BWM) desktop tool. Built with Python and CustomTkinter, it adds a visual interface to the bulk image watermarking workflow, including adjustable font size and an intuitive drag-and-drop style experience.",
+  "highlights": [
+    "🖼️ Visual GUI for bulk image watermarking",
+    "🔡 Adjustable watermark font size",
+    "🎨 Clean desktop UI with CustomTkinter",
+    "📁 Batch process entire folders instantly"
+  ],
+  "stack": {
+    "Python": "simple-icons:python",
+    "CustomTkinter": "mdi:application",
+    "Pillow": "mdi:image"
+  },
+  "github": "https://github.com/GVPV12/BWM-GUI"
+}
+
+]
 }

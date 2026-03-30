@@ -16,8 +16,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'nvim-bg': '#1c1c1c',
-        'nvim-fg': '#d0d0d0',
+'nvim-bg': '#0f0f10',
+'nvim-fg': '#00d7ff',
         'nvim-gray': '#4e4e4e',
         'blue': '#5fafd7',
         'green': '#87d787',
@@ -60,10 +60,10 @@ module.exports = {
           hue: withOpacity("--color-fill"),
         },
       },
-      fontFamily: {
-        sans: ["Inter", "sans-serif"],
-        mono: ["JetBrains Mono", "monospace"],
-      },
+    fontFamily: {
+      sans: ["Poppins", "Montserrat", "sans-serif"],
+      mono: ["Poppins", "sans-serif"], // reemplaza JetBrains Mono
+    },
     },
   },
   plugins: [

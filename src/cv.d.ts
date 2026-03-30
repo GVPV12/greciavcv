@@ -7,6 +7,7 @@ export interface CV {
   Certificates?: Array<Certificate>;
   publications?: Array<Publication>;
   languages: Array<Language>;
+  labProgress?: Array<LabProgress>;
   interests?: Array<Interests>;
   references?: Array<Reference>;
   projects?: Array<Project>;
@@ -15,11 +16,16 @@ export interface CV {
 interface Basics {
   name: string;
   label: string;
+  animated_main_label: string;
+  animated_secondary_initial_label: string;
+  animated_secondary_final_label: string;
+  animated_secondary_third_label: string;
   image: string;
   email: string;
   phone?: string;
   url: URL;
   summary: string;
+  theme: string;
   location: Location;
   profiles: Array<Profiles>;
 }
@@ -33,7 +39,8 @@ interface Location {
 }
 
 interface Profiles {
-  icon: string,
+  icon: string;
+  color: string;
   network: string;
   username: string;
   url: URL;
@@ -46,13 +53,18 @@ interface Work {
   startDate: DateStr;
   endDate: DateStr | null;
   summary: string;
-  highlights: Highlight;
+  highlights: Highlights;
+  responsibilities?: Highlights;
+  achievements?: Highlights;
+  location?: string;
+  location_type?: string;
+  skills?: Record<string, string>;
 }
 
 type DateStr = `${string}-${string}-${string}`;
 
 interface Skill {
-  icon: string,
+  icon: string;
   name: string;
   level: string;
   keywords: Array<string>;
@@ -60,7 +72,7 @@ interface Skill {
 
 interface Certificate {
   name: string;
-  date: DateStr;
+  date: DateStr | string;
   issuer: string;
   url: URL;
 }
@@ -87,6 +99,12 @@ interface Education {
 interface Language {
   language: string;
   fluency: string;
+  percent: number;
+}
+
+interface LabProgress {
+  name: string;
+  percent: number;
 }
 
 interface Project {
@@ -96,6 +114,7 @@ interface Project {
   highlights: Highlights;
   url?: URL;
   github?: URL;
+  stack?: Record<string, string>;
 }
 
 interface Interests {
@@ -108,4 +127,4 @@ interface Reference {
   reference: string;
 }
 
-type Highlights = Array<String>;
+type Highlights = Array<string>;

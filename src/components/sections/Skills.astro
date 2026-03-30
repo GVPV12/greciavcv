@@ -1,22 +1,68 @@
 ---
 import Section from '../Section.astro'
 import { skills } from '@cv'
+import cvData from '@cv'
 import { Icon } from 'astro-icon/components'
+
+const labProgress = cvData.labProgress ?? []
+const languages = cvData.languages ?? []
 ---
 
 <Section className={Astro.props.className} title='Skills'>
-  <ul
-    class='w-100 inline-flex print:mt-4 flex-wrap gap-4 [&>li>svg]:text-skin-hue [&>li]:text-sm'>
+
+  <!-- LANGUAGES -->
+  <div class="w-full mb-6 print:hidden">
+    <h3 class="text-xs font-bold uppercase tracking-widest text-skin-muted mb-3">Languages</h3>
+    <ul class="flex flex-col gap-3">
+      {languages.map(({ language, percent }) => (
+  <span>{language}</span>
+        <li class="flex flex-col gap-1">
+          <div class="flex justify-between text-xs text-skin-base">
+            <span>{language}</span>
+            <span class="text-skin-hue font-bold">{percent}%</span>
+          </div>
+          <div class="w-full h-1.5 rounded-full bg-skin-muted/20">
+            <div
+              class="h-1.5 rounded-full bg-skin-hue transition-all duration-700"
+              style={`width: ${percent}%`}
+            />
+          </div>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <!-- LAB PROGRESS -->
+  <div class="w-full mb-6 print:hidden">
+    <h3 class="text-xs font-bold uppercase tracking-widest text-skin-muted mb-3">Lab Progress</h3>
+    <ul class="flex flex-col gap-3">
+      {labProgress.map(({ name, percent }) => (
+        <li class="flex flex-col gap-1">
+          <div class="flex justify-between text-xs text-skin-base">
+            <span>{name}</span>
+            <span class="text-skin-hue font-bold">{percent}%</span>
+          </div>
+          <div class="w-full h-1.5 rounded-full bg-skin-muted/20">
+            <div
+              class="h-1.5 rounded-full bg-skin-hue transition-all duration-700"
+              style={`width: ${percent}%`}
+            />
+          </div>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <!-- SKILLS -->
+  <ul class='w-100 inline-flex print:mt-4 flex-wrap gap-4 [&>li>svg]:text-skin-hue [&>li]:text-sm'>
     {
-      skills.map(({ name, icon, level}) => {
-        return (
-          <li class='group relative flex items-center gap-1 rounded-md border border-solid cursor-default border-skin-hue/20 bg-skin-button-accent/20 px-1 py-0.5 text-xs text-skin-hue print:border-none print:bg-transparent print:p-0 print:text-zinc-800 transform transition-transform duration-500 hover:scale-110 hover:translate-y-[-8px] sm:hover:cursor-none'>
-            {icon && <Icon name={icon} width={16} height={16} title={level} />}{' '}
-              <span>{name}</span>
-              <span class="absolute transition-transform duration-300 group-hover:translate-y-full opacity-0 group-hover:opacity-100">{level}</span>
-          </li>
-        )
-      })
+      skills.map(({ name, icon, level }) => (
+        <li class='group relative flex items-center gap-1 rounded-md border border-solid cursor-default border-skin-hue/20 bg-skin-button-accent/20 px-1 py-0.5 text-xs text-skin-hue print:border-none print:bg-transparent print:p-0 print:text-zinc-800 transform transition-transform duration-500 hover:scale-110 hover:translate-y-[-8px] sm:hover:cursor-none'>
+          {icon && <Icon name={icon} width={16} height={16} title={level} />}
+          <span>{name}</span>
+          <span class="absolute transition-transform duration-300 group-hover:translate-y-full opacity-0 group-hover:opacity-100">{level}</span>
+        </li>
+      ))
     }
   </ul>
 </Section>
