@@ -57,8 +57,33 @@
     }
   ],
   "certificates": [
-
-    {
+ 
+        {
+      "name": "WordPress Full Course",
+      "date": "2021-01-03",
+      "url": "https://www.udemy.com/certificate/UC-be720c5f-2198-4b39-ad6a-8de78e5b0741/",
+      "issuer": "Udemy"
+    },
+        {
+      "name": "SEO full 9 hours Course",
+      "date": "2021-01-03",
+      "url": "https://www.udemy.com/certificate/UC-0d712c29-9648-4ba6-8f0f-dc5e10c68cec/",
+      "issuer": "Udemy"
+    },
+        {
+      "name": "Full Gemini Course",
+      "date": "2019-01-03",
+      "url": "https://skillshop.exceedlms.com/student/award/tJqBWShvHkYNaQc4bgSU2tEM ",
+      "issuer": "Google"
+    },
+            {
+      "name": "3D animation in Blender Course",
+      "date": "2021-01-03",
+      "url": "https://www.domestika.org/es/certificates/b4e651939bd754b2f9bebb9c80bf1e89 ",
+      "issuer": "Domestika"
+    },
+ 
+       {
       "name": "Full HTML Course",
       "date": "2019-01-03",
       "url": "https://www.sololearn.com/certificates/CT-HCODABBP",
@@ -75,42 +100,6 @@
       "date": "2019-01-03",
       "url": "https://www.sololearn.com/es/certificates/CT-KATL1YJQ",
       "issuer": "Solo Learn"
-    },
-        {
-      "name": "WordPress Full Course",
-      "date": "2021-01-03",
-      "url": "https://www.udemy.com/certificate/UC-be720c5f-2198-4b39-ad6a-8de78e5b0741/",
-      "issuer": "Udemy"
-    },
-        {
-      "name": "SEO full 9 hours Course",
-      "date": "2021-01-03",
-      "url": "https://www.udemy.com/certificate/UC-0d712c29-9648-4ba6-8f0f-dc5e10c68cec/",
-      "issuer": "Udemy"
-    },
-        {
-      "name": "UX Full Course",
-      "date": "2021-01-03",
-      "url": "https://www.udemy.com/certificate/UC-2b12fb6b-9435-4670-9f70-04de9470bca2/",
-      "issuer": "Udemy"
-    },
-        {
-      "name": "Full Gemini Course",
-      "date": "2019-01-03",
-      "url": "https://skillshop.exceedlms.com/student/award/tJqBWShvHkYNaQc4bgSU2tEM ",
-      "issuer": "Google"
-    },
-            {
-      "name": "3D animation in Blender Course",
-      "date": "2021-01-03",
-      "url": "https://www.domestika.org/es/certificates/b4e651939bd754b2f9bebb9c80bf1e89 ",
-      "issuer": "Domestika"
-    },
-            {
-      "name": "Full SEO Course",
-      "date": "2021-01-03",
-      "url": "https://www.udemy.com/certificate/UC-0d712c29-9648-4ba6-8f0f-dc5e10c68cec/ ",
-      "issuer": "Google"
     },
             {
       "name": "All my course certificacions",
